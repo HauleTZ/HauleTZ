@@ -1,4 +1,4 @@
 - 👋 Hi, I’m William Haule
 - 👀 I’m interested in programming
-- 💞️ I’m looking to collaborate on Web development with Pyhton, Django
+- 💞️ I’m looking to collaborate on Web application development project with Pyhton, Django
 - 📫 How to reach me :williamhaule326@gmail.com
