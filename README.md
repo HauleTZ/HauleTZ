@@ -1,5 +1,1 @@
-- 👋 Hi, I’m William Haule
-- 👀 I’m interested in programming
-- 💞️ I’m looking to collaborate on Web application development project
--I'm good in Django and React JS
-- 📫 How to reach me :williamhaule326@gmail.com
+Full stack Web developer with industry experience building websites and web applications. Skilled at delivery and maintenance of web software and accustomed to functioning within a team of top-performing developers and IT support experts. Highly experienced in Python, JavaScript, Django, HTML, CSS and SQL
