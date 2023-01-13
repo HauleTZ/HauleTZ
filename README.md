@@ -10,7 +10,7 @@
   <h5 align="center">Data scientist | Web Developer</h5>
 </div>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hauletz&style=flat-square&color=blue"  alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=HauleTZz&style=flat-square&color=blue"  alt=""/>
   </div>
 <hr>
 <div id="badges" align="center">
@@ -62,7 +62,7 @@
   
   <hr>
   
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hauletz&show_icons=true&theme=merko)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=HauleTZ&show_icons=true&theme=merko)
   
   <hr>
   
