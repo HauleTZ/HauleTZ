@@ -7,7 +7,7 @@
 
 <div class="alert alert-success">
   <h2 align="center">I'm William Haule</h2>
-  <h5 align="center">Data scientist | Web Developer</h5>
+  <h5 align="center">Data scientist | Machine Learning Engineer| Web Developer</h5>
 </div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=HauleTZz&style=flat-square&color=blue"  alt=""/>
