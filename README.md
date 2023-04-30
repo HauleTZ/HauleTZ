@@ -7,7 +7,7 @@
 
 <div class="alert alert-success">
   <h2 align="center">I'm William Haule</h2>
-  <h5 align="center">Data scientist | Machine Learning Engineer| Web Developer</h5>
+  <h5 align="center">Data scientist | Machine Learning Engineer| Full-stack Web Developer</h5>
 </div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=HauleTZz&style=flat-square&color=blue"  alt=""/>
@@ -23,15 +23,10 @@
 
 <!--### :mechanical_arm: Projects: -->
 
-
 <!-- ### :man_teacher: Facilitation : -->
 
-
-
-
-
-
 ### :hammer_and_wrench: Languages and Tools :
+
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp;
@@ -47,10 +42,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 </div>
 <hr>
 
 ### :fire: My Stats :
+
 <div id="header" align="center">
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hauletz&theme=dark&background=000000)](https://git.io/streak-stats)
@@ -72,21 +69,18 @@
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </div>
 
+## <!---
 
-<!---
--
 - 👋 Hi, I’m @isackodero
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 
---->
-<!---
-nsomazr/nsomazr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
+- --->
+  <!---
+  nsomazr/nsomazr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  You can click the Preview link to take a look at your changes.
+  --->
 
 <!--
 **nsomazr/nsomazr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
